@@ -18,7 +18,5 @@ In this Project, I have developed a **content-based** recommendation system.
 4. Testing
 5. Deployment
 
-Tools used:
-1.Python
-2.Streamlit
+
 

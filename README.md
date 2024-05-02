@@ -12,7 +12,7 @@ Recommendation systems are used in various online platforms like YouTube, Facebo
 In this Project, I have developed a **content-based** recommendation system.
 
 **Project Overview**
-1. Data Gathering
+1. Data Preparation
 2. Data Preprocessing
 3. Model Building
 4. Product development

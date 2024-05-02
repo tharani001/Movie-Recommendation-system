@@ -15,7 +15,10 @@ In this Project, I have developed a **content-based** recommendation system.
 1. Data Preprocessing
 2. Vectorisation
 3. Model Building
-4. Product development
+4. Testing
 5. Deployment
 
+Tools used:
+1.Python
+2.Streamlit
 
